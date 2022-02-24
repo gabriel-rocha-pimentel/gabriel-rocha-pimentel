@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/GabrielRP19">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielrp19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrp19&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielRP19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRP19&layout=compact&langs_count=7&theme=dracula" />
 </div>
   </br>
   </br>
@@ -27,6 +27,6 @@
  </br>
  </br>
  
-  ![Snake animation](https://github.com/gabrielrp19/gabrielrp19/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GabrielRP19/GabrielRP19/blob/output/github-contribution-grid-snake.svg)
  
 </div>
