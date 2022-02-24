@@ -1,8 +1,6 @@
 <h1> Hi I´m Gabriel </h1>
 
 #
-
-<p>- AREA DE TRABALHO : Front-End</p>
 <p>- ESTUDANDO : Python, JavaScript, React, VueJS, UX and UI.</p>
 <p>- ENTRE EM CONTATO POR :</p>
 <p>- WHATSAPP : +55 (61) 995712245</p>
