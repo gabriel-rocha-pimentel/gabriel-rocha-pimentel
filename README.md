@@ -1,6 +1,5 @@
 <h1> Hi I´m Gabriel </h1>
 
-#
 <p>- ESTUDANDO : Python, JavaScript, React, VueJS, UX and UI.</p>
 <p>- ENTRE EM CONTATO POR :</p>
 <p>- WHATSAPP : +55 (61) 995712245</p>
@@ -11,7 +10,7 @@
     
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielRP19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRP19&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em"  align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRP19&layout=compact&langs_count=7&theme=dracula" />
   </br>
   <img align="center" width="148" height="180" src="https://c.tenor.com/-NqF-B6hYj4AAAAd/luffy-yasmine.gif">
 </div>
