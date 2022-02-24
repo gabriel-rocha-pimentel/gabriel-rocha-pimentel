@@ -9,8 +9,8 @@
 <div>
   <a href="https://github.com/GabrielRP19">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielRP19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRP19&layout=compact&langs_count=7&theme=dracula" /> 
     
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRP19&layout=compact&langs_count=7&theme=dracula" /> 
   <img align="center" width="148" height="180" src="https://c.tenor.com/-NqF-B6hYj4AAAAd/luffy-yasmine.gif">
 </div>
   
