@@ -1,9 +1,4 @@
-## <h1> Hi I´m Gabriel </h1>
-
-<p>- ESTUDANDO : Python, JavaScript, React, VueJS, UX and UI.</p>
-<p>- ENTRE EM CONTATO POR :</p>
-<p>- WHATSAPP : +55 (61) 995712245</p>
-<p>- GMAIL : gabrielgrppimentel@gmail.com</p>
+##  Estudando Tecnologia, meu nome é Gabriel. Muito Prazer !
 
 <div align="center">
   <a href="https://github.com/GabrielRP19">
