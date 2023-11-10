@@ -1,4 +1,4 @@
-## HI GALERA ! Eu curto muito IAs e Design :)
+## Hi i'm web developer | Full-Stack | Python, Django, React, Node... :)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="code-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
