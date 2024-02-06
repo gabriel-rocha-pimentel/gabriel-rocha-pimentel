@@ -1,4 +1,5 @@
-## Hi i'm web developer | Full-Stack | Python, Django, React, Node... :)
+## Hi 👋🏽 O am Gabriel Rocha
+## I'm Developer Web Front-End and Welcome !
 
 <div style="display: inline_block"><br>
   <img align="center" alt="code-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,7 +32,4 @@
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gabrieldrocha21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-rocha-1296aa272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/gabriel-rocha-pimentel/gabriel-rocha-pimentel/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
