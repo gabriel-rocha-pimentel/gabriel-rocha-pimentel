@@ -1,4 +1,4 @@
-## Hi 👋🏽 O am Gabriel Rocha
+## Hi 👋🏽 I am Gabriel Rocha
 ## I'm Developer Web Front-End and Welcome !
 
 <div style="display: inline_block"><br>
