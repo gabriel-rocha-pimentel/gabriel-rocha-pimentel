@@ -1,5 +1,5 @@
-## Hi 👋🏽 I am Gabriel Rocha
-## I'm Developer Web Front-End and Welcome !
+## Olá ! 👋🏽 Eu sou Gabriel Rocha
+## Sou Dev Front-End
 
 <div style="display: inline_block"><br>
   <img align="center" alt="code-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
