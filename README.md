@@ -25,21 +25,12 @@ Bem-vindo ao meu perfil! Sou Gabriel Rocha, um entusiasta da tecnologia e desenv
 
 ### 📊 Estatísticas do GitHub
 
-<div>
-  <picture style="display: flex; flex-direction: column; align-items: center; width: 100%;">
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=gabriel-rocha-pimentel&show_icons=true&theme=dracula"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=gabriel-rocha-pimentel&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=gabriel-rocha-pimentel&show_icons=true" />
-  </picture>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-rocha-pimentel&layout=compact)
-</div>
+  <div width="100%" align="center">
+    <a href="https://github.com/gabriel-rocha-pimentel">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gabriel-rocha-pimentel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-rocha-pimentel&layout=compact"/>
+    <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-rocha-pimentel&theme=radical&hide_border=true"/>
+  </div>
 
 ---
 
