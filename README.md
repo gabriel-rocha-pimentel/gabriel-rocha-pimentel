@@ -1,10 +1,10 @@
-<h2 align="left">Olá! 👋🏽 Eu sou Gabriel Rocha</h2>
-<h3 align="left">Desenvolvedor Fullstack</h3>
+<h2 align="left">Hello! 👋🏽 I'm Gabriel Rocha</h2>
+<h3 align="left">Code Explorer & Tester</h3>
 <br>
-<p>Bem-vindo ao meu perfil! Sou Gabriel Rocha, um entusiasta da tecnologia e desenvolvedor fullstack apaixonado por criar experiências digitais envolventes e funcionais. Minha jornada no desenvolvimento web é uma mistura empolgante de front-end e back-end, permitindo-me construir aplicações completas e robustas. Estou sempre em busca de novas tecnologias e práticas inovadoras para resolver problemas de maneira criativa e eficiente.
+<p>Welcome to my fun and experimental profile! I'm Gabriel Rocha, a tech enthusiast who loves playing around with code, testing ideas, and exploring new tools. Here, you'll find experimental projects, small tests, and maybe some unexpected creations! 😄
 </p>
 <br>
-<p>✨ Se você está procurando alguém para transformar ideias em realidade com um toque de inovação e paixão, você está no lugar certo! Vamos conectar e explorar como podemos criar soluções tecnológicas incríveis juntos.
+<p>✨ I'm always eager to learn and have fun with new coding challenges. If you'd like to exchange ideas, test something together, or just explore creative solutions, feel free to connect!
 </p>
 
 ###
@@ -45,7 +45,6 @@
   <a href="https://django-app-zka8.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"></a>
   <a href="mailto:gabrielrochapimentel.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielrochapimentel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
 </div>
 
 ###
@@ -53,5 +52,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/gabriel-rocha-pimentel/gabriel-rocha-pimentel/output/snake.svg" alt="Snake animation" />
-
-###
