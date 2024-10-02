@@ -1,20 +1,20 @@
 <h2 align="left">Hello! 👋🏽 I'm Gabriel Rocha</h2>
-<h3 align="left">Code Explorer & Tester</h3>
+<h3 align="left">Software Developer & Innovator</h3>
 <br>
-<p>Welcome to my fun and experimental profile! I'm Gabriel Rocha, a tech enthusiast who loves playing around with code, testing ideas, and exploring new tools. Here, you'll find experimental projects, small tests, and maybe some unexpected creations! 😄
-</p>
+<p>Welcome to my professional profile! I am Gabriel Rocha, a passionate software developer with a keen interest in exploring innovative technologies and creating impactful solutions. In this space, you'll discover a collection of my projects, coding experiments, and insights into my journey as a developer.</p>
 <br>
-<p>✨ I'm always eager to learn and have fun with new coding challenges. If you'd like to exchange ideas, test something together, or just explore creative solutions, feel free to connect!
-</p>
+<p>✨ I am committed to continuous learning and thrive on tackling new challenges in the tech world. I am always open to collaborations, discussions, or brainstorming creative solutions together. Let’s connect and explore the possibilities!</p>
+<br>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-rocha-pimentel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-rocha-pimentel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-rocha-pimentel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-rocha-pimentel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
+
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/2f/56/90/2f5690ee185f5345025b1a5b0bf2c8aa.gif"  />
 
