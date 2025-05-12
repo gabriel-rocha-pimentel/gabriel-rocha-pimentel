@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=2019EB&text=Hello%20World&reversal=false&textBg=false&fontColor=ffffff&fontSize=70&animation=scaleIn"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0009F7&width=435&lines=Hi+!+I'm+Gabriel+%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
-<br></br>
+
 <ul>
   <li><em>💻 Systems Analysis and Development student at <a href="https://www.unigrande.edu.br/">Centro Universitario UNIGRANDE</a>.</em></li>
   <li><em>💼 Designer and Software Developer Freelancer <!--(<a href="https://escola.mpu.mp.br">ESMPU</a>)--></em></li>
