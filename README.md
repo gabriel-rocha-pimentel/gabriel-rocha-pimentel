@@ -13,6 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rocha-pimentel/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielrochapimentel.dev@gmail.com)
+[![Behance](https://img.shields.io/badge/Behance-1D5DEC?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gabrielrochapimentel/)
 
 ### GitHub Status
 
